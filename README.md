@@ -32,6 +32,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,67 +44,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global accounting software market is valued at approximately **$20.8B–$23.1B in 2025** and projected to reach **$24.9B+ in 2026** (CAGR of ~8–9%). The industry exhibits **moderate concentration with a bimodal structure**: enterprise ERP and CPM layers are concentrated among a few heavyweights (Oracle, SAP, Intuit, Sage), while the lower-market and regional SME accounting spaces remain highly fragmented with localized platforms catering to country-specific tax compliance, e-invoicing laws, and banking rails.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **Zoho Books**
-
-  **Cloud accounting** within Zoho ecosystem. **Pricing**: Free tier for businesses with revenue under $50K; paid from ~$15/month. **Free tier**: Yes, limited. **Best for**: SMBs already using Zoho apps wanting integrated accounting—**trade-off**: feature depth varies by tier.
-
-
-
-- **QuickBooks Online**
-
-  **SMB accounting standard** with broad ecosystem. **Pricing**: Tiered from ~$35/month; frequently discounted. **Free tier**: Trial available. **Best for**: small businesses wanting the largest accountant network and app ecosystem—**trade-off**: costs scale with company size; desktop version being phased out.
-
-
-
-- **Xero**
-
-  **Cloud accounting** with strong bank reconciliation and multi-currency. **Pricing**: Tiered from ~$20/month. **Free tier**: Trial available. **Best for**: businesses wanting clean bank feeds and collaboration with advisors—**trade-off**: limited inventory features compared to QuickBooks.
-
-
-
-- **FreshBooks**
-
-  **Accounting for freelancers and service businesses**. **Pricing**: Lite from ~$19/month; tiered by billable clients. **Free tier**: Trial available. **Best for**: solopreneurs and small service teams wanting simple invoicing and expense tracking—**trade-off**: limited features for product-based businesses.
-
-
-
-- **Sage Intacct**
-
-  **Enterprise financial management** with multi-entity consolidation. **Pricing**: Quote-only; typically $15K–$100K+/year. **Free tier**: None. **Best for**: mid-market companies needing dimensional reporting and compliance—**trade-off**: implementation complexity.
-
-
-
-- **NetSuite**
-
-  **Enterprise ERP with accounting** at its core. **Pricing**: Quote-only; typically $30K+/year. **Free tier**: None. **Best for**: growing companies wanting unified ERP and accounting—**trade-off**: implementation cost and complexity.
-
-
-
-- **Wave**
-
-  **Free accounting** for small businesses. **Pricing**: Free for accounting and invoicing; paid for payroll and payments. **Free tier**: Yes, core accounting free. **Best for**: freelancers and micro-businesses wanting free bookkeeping—**trade-off**: limited features for complex businesses.
-
-
-
-- **FreeAgent**
-
-  **Accounting for UK freelancers and small businesses**. **Pricing**: ~$12–$33/month. **Free tier**: Free with NatWest/RBS bank accounts. **Best for**: UK-based freelancers wanting tax-ready accounting—**trade-off**: UK-focused; limited international support.
-
-
-
-- **Kashoo**
-
-  **Simple cloud accounting** for small businesses. **Pricing**: ~$20–$40/month. **Free tier**: Trial available. **Best for**: small businesses wanting straightforward bookkeeping—**trade-off**: limited feature depth.
-
-
-
-- **OneStream**
-
-  **Corporate performance management** for enterprise finance. **Pricing**: Quote-only. **Free tier**: None. **Best for**: large enterprises needing consolidation, planning, and reporting—**trade-off**: enterprise-only; implementation heavy.
+| Product | Company Size / Valuation / Revenue | Pricing | Free Tier / Trial Limits | Description & Best For | Trade-offs |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **NetSuite** | ~$350B–$374B market cap (Parent: Oracle) | Starts at **$999/month base fee** + **$129–$199/user/month** (annual contract required, ~$25,000–$50,000+/year min.) | **14-day free trial** via partner/discovery verification (restricted test environment with sample company data; no public self-serve free tier) | Enterprise ERP with unified core financials, multi-subsidiary consolidation, global tax compliance, and CRM/inventory. Best for mid-market to enterprise companies scaling operations. | High implementation cost ($25K–$100K+) and long deployment cycles. |
+| **QuickBooks Online** | ~$90B–$95B market cap; ~$16B+ ARR (Intuit) | Simple Start: **$35/month**; Essentials: **$65/month**; Plus: **$99/month**; Advanced: **$235/month** | **30-day free trial** with full feature access of chosen tier (requires payment setup; no perpetual free plan) | SMB accounting standard with the largest accountant directory, payroll integrations, and app ecosystem. Best for small businesses needing universal CPA collaboration. | Add-on fees scale quickly; desktop versions phased out in favor of cloud subscriptions. |
+| **FreeAgent** | ~$63B–$67B market cap (Parent: NatWest Group; acquired for £53M / ~$75M) | Sole Trader: **£19/month** (~$24/mo); Limited Co: **£33/month** (~$42/mo) | **30-day free trial** (max 2 recipient emails for estimates/invoices during trial); **100% Free forever** for NatWest, RBS, Ulster Bank, and Mettle business bank account holders | Cloud bookkeeping and tax platform built specifically for UK sole proprietors, freelancers, and small businesses with automated HMRC self-assessment filing. | Deeply UK-focused; limited native multi-currency and international reporting support. |
+| **Sage Intacct** | ~$11.7B / £10.6B market cap (Parent: The Sage Group plc) | Starts at **$900–$1,000/month** (~$11,000–$12,000/year base for 1 entity / 1 full user; avg. contract $20,000–$35,000+/year) | **30-day free trial** (sandbox environment with pre-populated sample industry data; accessed via demo request, no permanent free tier) | Cloud financial management and multi-entity dimensional reporting built for finance leaders. Best for mid-market growing companies requiring strict GAAP/IFRS controls and AICPA endorsement. | Substantial upfront setup and partner implementation fees ($12,000+). |
+| **Zoho Books** | ~$12.4B–$15B estimated private valuation; ~$1.5B annual revenue (Zoho Corp) | Standard: **$15/month** ($20 billed mo.); Professional: **$40/month**; Premium: **$60/month**; Elite: **$120/month** | **Free forever plan** (strictly limited to businesses with **< $50,000/year revenue**, **1 user + 1 accountant**, up to **1,000 invoices/year**, **1,000 bills/year**, and **50 autoscans/month**; 14-day trial for paid tiers) | End-to-end cloud accounting deeply integrated into the Zoho business ecosystem. Best for SMBs seeking full-featured, affordable automation. | Features segregated across tiers; non-Zoho third-party integrations require custom setups. |
+| **Xero** | ~$10.7B–$11.5B AUD market cap (~$7B USD) | Early: **$20/month** (capped at 20 invoices); Growing: **$47/month**; Established: **$80/month** | **30-day free trial** with access to core features or built-in demo company data (no credit card required; data turns read-only after 30 days) | Cloud accounting known for intuitive UI, automated bank reconciliation, and broad accountant collaboration. Best for SMBs and modern online businesses. | Entry plan has severe invoice volume limits (20 invoices/month); advanced analytics require add-ons. |
+| **Wave** | ~$6.5B market cap (Parent: H&R Block; acquired for $405M) | Pro Plan: **$19/month** (or $190/year billed annually) | **Starter Plan is Free forever** (includes unlimited invoicing, expense tracking, and manual bank imports; excludes automatic bank feeds, receipt OCR, and automated payment reminders) | Lightweight accounting and invoicing designed for micro-businesses, freelancers, and solopreneurs looking for zero-cost core bookkeeping. | Lacks inventory management, audit trails, and formal purchase order workflows. |
+| **OneStream** | ~$6.4B valuation (acquired by Hg in 2026; ~$600M ARR) | Enterprise quote-based; baseline contract starts at **~$10,000–$15,000/month** (~$120,000–$178,000+/year avg. ACV) | **No self-serve free trial**; evaluation conducted through sales-engineered **Proof of Concept (POC) / Proof of Value (POV)** tenants loaded with customized data | Enterprise Corporate Performance Management (CPM) unifying financial consolidation, budgeting, close management, and AI predictive forecasting on Extensible Dimensionality. | Heavyweight deployment requiring enterprise system integrators; not suited for SMBs. |
+| **FreshBooks** | ~$1.0B valuation (Series E unicorn; ~$55M+ ARR) | Lite: **$19/month**; Plus: **$33/month**; Premium: **$60/month** | **30-day free trial** with full feature access across standard plans (no credit card required; requires plan selection afterwards) | User-friendly invoicing and expense tracking designed for service providers, agencies, and consultants. Best for time-tracking and client-billed expense projects. | Limited double-entry bookkeeping depth; costs scale rapidly with billable client counts. |
+| **Kashoo** | ~$1M–$2M ARR (Privately held; strategic investment from Paychex) | Single flat tier at **$30/month** (or $240/year billed annually; introductory offers often ~$20/mo) | **14-day free trial** (no credit card required; full access to all features, 90-day grace read-only period post-trial) | Simple cloud accounting focused on automated bookkeeping, smart transaction matching, and single-screen expense sorting. Best for micro-businesses wanting uncomplicated books. | Minimal third-party app ecosystem; basic inventory and reporting capabilities. |
 
 
 
