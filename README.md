@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Accounting-Financial-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Accounting-Financial-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Accounting-Financial-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Accounting-Financial-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Accounting-Financial-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Accounting-Financial-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Accounting-Financial-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,10 +64,10 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 
 ## 💻 Open-Source GitHub Projects
 
-*Open-source platforms allow complete self-hosting, full data sovereignty, zero recurring license fees, and freedom to extend features. Repositories below are ordered by GitHub star count in descending order.*
+*Open-source platforms allow complete self-hosting, full data sovereignty, zero recurring license fees, and freedom to extend features. Repositories below are ordered by GitHub Stars_Count in descending order.*
 
 ### 1. 🌟 [frappe/erpnext](https://github.com/frappe/erpnext)
-[![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 - **Description**: The world's top open-source ERP system featuring an extensive, enterprise-grade double-entry financial accounting engine.
 - **Key Features**: General Ledger, Chart of Accounts, Accounts Payable & Receivable (AP/AR), multi-currency, cost center allocation, bank reconciliation, automated billing, taxation compliance, asset management, and financial reporting (Balance Sheet, P&L, Cash Flow).
 - **Tech Stack**: Python, Frappe Framework, MariaDB, JavaScript, Redis.
@@ -75,7 +75,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Businesses seeking an end-to-end, full-featured ERP and accounting powerhouse that scales from small teams to enterprise level.
 
 ### 2. 🌟 [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-[![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)
 - **Description**: A self-hosted personal finance and double-entry money manager designed to track budgets, expenses, and asset accounts.
 - **Key Features**: Double-entry accounting principles, rule-based auto-categorization, bank import via Spectre/Nordigen/Plaid, multi-currency support, liability and credit card tracking, and comprehensive budgeting tools.
 - **Tech Stack**: PHP (Laravel), MySQL/PostgreSQL/SQLite, Docker.
@@ -83,7 +83,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Solopreneurs, freelancers, and individuals wanting strict double-entry tracking of all cash flows and account balances.
 
 ### 3. 🌟 [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
-[![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
 - **Description**: Leading self-hosted invoicing, billing, and expense management platform with cross-platform mobile and desktop apps.
 - **Key Features**: Client invoicing, recurring billing, auto-billing, quotes and proposals, payment gateway integrations (Stripe, PayPal, Mollie, 30+ gateways), expense tracking, and client portal.
 - **Tech Stack**: PHP (Laravel), Flutter (desktop & mobile clients), MySQL.
@@ -91,7 +91,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Freelancers, agencies, and SMBs needing professional invoicing and payment processing workflows without subscription fees.
 
 ### 4. 🌟 [akaunting/akaunting](https://github.com/akaunting/akaunting)
-[![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
 - **Description**: Free and open-source online accounting software designed for small businesses and freelancers.
 - **Key Features**: Full double-entry bookkeeping, invoicing, bill tracking, vendor management, cash flow reporting, banking feeds, inventory management, and an extensive app marketplace for extensions.
 - **Tech Stack**: PHP (Laravel), Vue.js, Tailwind CSS, MySQL.
@@ -99,7 +99,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Small business owners wanting a clean, modular, web-based accounting interface similar to QuickBooks.
 
 ### 5. 🌟 [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-[![GitHub stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social&color=white)](https://github.com/idurar/idurar-erp-crm/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social&color=white)](https://github.com/idurar/idurar-erp-crm/stargazers)
 - **Description**: Modern open-source ERP and CRM system with integrated accounting and invoice management built on the MERN stack.
 - **Key Features**: Invoice generation, quotation management, payment tracking, customer relationship management, expense monitoring, and role-based permissions.
 - **Tech Stack**: Node.js, Express, React, Redux, MongoDB.
@@ -107,7 +107,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: JavaScript/Node.js developers wanting a customizable, developer-friendly billing and business management platform.
 
 ### 6. 🌟 [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater)
-[![GitHub stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)
 - **Description**: Open-source invoicing suite designed for freelancers and small business owners with accompanying companion apps.
 - **Key Features**: Invoicing, estimates, payment tracking, expense management, customizable tax settings, detailed reports, and mobile application support.
 - **Tech Stack**: PHP (Laravel), Vue.js, React Native, MySQL.
@@ -115,7 +115,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Solo operators seeking a lightweight, self-hosted invoicing solution with dedicated mobile clients.
 
 ### 7. 🌟 [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
-[![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
 - **Description**: Mature open-source all-in-one ERP and CRM suite with extensive financial and double-entry accounting modules.
 - **Key Features**: Double-entry general ledger, bank account reconciliation, billing, purchase orders, inventory, tax reports, multi-currency, and Point-of-Sale (POS).
 - **Tech Stack**: PHP, MariaDB/MySQL/PostgreSQL.
@@ -123,7 +123,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Small to enterprise-scale businesses and foundations requiring an established, modular open-source ERP.
 
 ### 8. 🌟 [beancount/beancount](https://github.com/beancount/beancount)
-[![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)
 - **Description**: A computer language that implements double-entry bookkeeping using plain text files and Python-based balance sheet generation.
 - **Key Features**: Plain-text accounting, immutable ledger history, SQL-like querying syntax (`BQL`), multi-commodity assets, investments tracking, and integration with the web-based visualization UI [Fava](https://github.com/beancount/fava).
 - **Tech Stack**: Python, C (core parsing), Plain Text files.
@@ -131,7 +131,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Developers, technical accountants, and financial engineers who value git-versioned, plain-text bookkeeping.
 
 ### 9. 🌟 [ledger/ledger](https://github.com/ledger/ledger)
-[![GitHub stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)
 - **Description**: The classic, high-performance command-line double-entry accounting tool that originated the Plain Text Accounting (PTA) movement.
 - **Key Features**: Blazing-fast CLI ledger parsing, double-entry validation, balance and register reporting, currency conversion, and scriptable automation.
 - **Tech Stack**: C++, Boost, CMake.
@@ -139,7 +139,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: CLI power users and engineers wanting minimalist, ultra-fast financial tracking without databases or web servers.
 
 ### 10. 🌟 [hql287/Manta](https://github.com/hql287/Manta)
-[![GitHub stars](https://img.shields.io/github/stars/hql287/Manta?style=social&color=white)](https://github.com/hql287/Manta/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/hql287/Manta?style=social&color=white)](https://github.com/hql287/Manta/stargazers)
 - **Description**: Flexible, elegant desktop invoicing application for freelancers with customizable templates and instant PDF generation.
 - **Key Features**: Beautiful printable invoice templates, drag-and-drop line reordering, local data persistence (no cloud dependency), SVG logos, and custom tax rates.
 - **Tech Stack**: Electron, React, Redux, Webpack.
@@ -147,7 +147,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Freelancers and creative professionals needing an offline desktop tool to generate crisp invoice PDFs without ongoing subscriptions.
 
 ### 11. 🌟 [frappe/books](https://github.com/frappe/books)
-[![GitHub stars](https://img.shields.io/github/stars/frappe/books?style=social&color=white)](https://github.com/frappe/books/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/frappe/books?style=social&color=white)](https://github.com/frappe/books/stargazers)
 - **Description**: Free, lightweight, local-first double-entry desktop bookkeeping software built by the creators of ERPNext.
 - **Key Features**: Double-entry ledger, invoicing, bills, journal entries, payment records, offline-first SQLite backend, and native financial reports.
 - **Tech Stack**: Electron, Vue.js, SQLite.
@@ -155,7 +155,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Small business owners seeking a desktop alternative to QuickBooks that works offline with zero cloud telemetry.
 
 ### 12. 🌟 [Gnucash/gnucash](https://github.com/Gnucash/gnucash)
-[![GitHub stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)
 - **Description**: Veteran, open-source personal and small-business financial accounting software with decades of active development.
 - **Key Features**: Double-entry accounting, checkbook-style register, scheduled transactions, customer and vendor tracking, invoicing, QIF/OFX/HBCI bank import, and investment portfolio tracking.
 - **Tech Stack**: C, C++, Scheme (Guile), GTK.
@@ -163,7 +163,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Traditional bookkeepers, small business operators, and individuals who want a robust, battle-tested desktop accounting system.
 
 ### 13. 🌟 [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)
-[![GitHub stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)
 - **Description**: Modern open-source financial accounting platform with intelligent reporting and API-first architecture, built as an alternative to QuickBooks and Xero.
 - **Key Features**: Double-entry accounting, invoicing, billing, expenses, multi-currency, inventory, intelligent reporting, REST/GraphQL APIs, CLI scaffolding, and payment gateway adapters.
 - **Tech Stack**: TypeScript, Node.js, Express, Docker Compose.
@@ -171,7 +171,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Developers and startups wanting a TypeScript-native accounting foundation with API-first financial workflows.
 
 ### 14. 🌟 [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)
-[![GitHub stars](https://img.shields.io/github/stars/InvoiceShelf/InvoiceShelf?style=social&color=white)](https://github.com/InvoiceShelf/InvoiceShelf/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/InvoiceShelf/InvoiceShelf?style=social&color=white)](https://github.com/InvoiceShelf/InvoiceShelf/stargazers)
 - **Description**: Active community continuation of Crater, providing focused self-hosted invoicing and expense tracking.
 - **Key Features**: Customer management, estimates, recurring invoices, payment tracking, multi-company support, custom tax rules, and mobile-friendly responsive layout.
 - **Tech Stack**: PHP, Laravel, Docker.
@@ -179,7 +179,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Solo founders and small businesses needing simple invoice dispatch without subscription lock-in.
 
 ### 15. 🌟 [SolidInvoice/SolidInvoice](https://github.com/SolidInvoice/SolidInvoice)
-[![GitHub stars](https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=social&color=white)](https://github.com/SolidInvoice/SolidInvoice/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=social&color=white)](https://github.com/SolidInvoice/SolidInvoice/stargazers)
 - **Description**: Clean, open-source invoicing and quotation solution engineered for small businesses.
 - **Key Features**: Invoicing, automated payment reminders, quote-to-invoice conversion, client portal, multiple payment gateways (Stripe, PayPal), and REST API.
 - **Tech Stack**: PHP, Symfony, Doctrine, Tailwind CSS.
@@ -187,7 +187,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Agencies and freelancers wanting a clean, reliable, Symfony-based billing and invoice tracking application.
 
 ### 16. 🌟 [ledgersmb/LedgerSMB](https://github.com/ledgersmb/LedgerSMB)
-[![GitHub stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)
 - **Description**: Solid, web-based open-source ERP and double-entry accounting system with enterprise database controls.
 - **Key Features**: General Ledger, Accounts Payable / Receivable, Quotations, Orders, Invoicing, Inventory control, Fixed assets, and PostgreSQL stored procedures for strict financial data integrity.
 - **Tech Stack**: Perl, PostgreSQL, JavaScript, Docker.
@@ -195,7 +195,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Organizations prioritizing database-level transactional integrity, strict audit logs, and SQL-backed accounting rules.
 
 ### 17. 🌟 [dubbl-org/dubbl](https://github.com/dubbl-org/dubbl)
-[![GitHub stars](https://img.shields.io/github/stars/dubbl-org/dubbl?style=social&color=white)](https://github.com/dubbl-org/dubbl/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/dubbl-org/dubbl?style=social&color=white)](https://github.com/dubbl-org/dubbl/stargazers)
 - **Description**: Full-featured, modern open-source alternative to Xero and QuickBooks with double-entry bookkeeping, payroll, and native AI Model Context Protocol (MCP) server support.
 - **Key Features**: Double-entry ledger, bank reconciliation, invoicing & quotes, bills & purchase orders, payroll engine, inventory BOM/serial tracking, 25+ financial reports, REST API, and built-in MCP server for AI coding agents (Claude, Cursor, Copilot).
 - **Tech Stack**: Next.js, TypeScript, PostgreSQL, Drizzle ORM, NextAuth.js, Tailwind CSS.
@@ -203,7 +203,7 @@ The ecosystem exhibits **moderate concentration with a distinct bimodal structur
 - **Best For**: Modern tech teams, startups, and AI agent developers seeking full control over accounting rails and automated agentic finance.
 
 ### 18. 🌟 [tpt-solutions/tpt-openledger](https://github.com/tpt-solutions/tpt-openledger)
-[![GitHub stars](https://img.shields.io/github/stars/tpt-solutions/tpt-openledger?style=social&color=white)](https://github.com/tpt-solutions/tpt-openledger/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tpt-solutions/tpt-openledger?style=social&color=white)](https://github.com/tpt-solutions/tpt-openledger/stargazers)
 - **Description**: Desktop-native double-entry accounting application built with encrypted local storage for maximum financial privacy.
 - **Key Features**: Local-first architecture, SQLCipher encryption at rest, Chart of Accounts, CSV/OFX import, audit logging, and zero remote tracking.
 - **Tech Stack**: Rust, Tauri, SQLite (SQLCipher).
@@ -238,7 +238,7 @@ Contributions are warmly encouraged! To add or update a product:
 2. 🌿 **Create a descriptive branch** (`git checkout -b add/new-accounting-platform`).
 3. 📝 **Add or update the entry** in `README.md` following the existing format:
    - For SaaS products: include specific starting pricing tier, exact free tier / trial terms, and parent company valuation/market cap.
-   - For open-source repos: include repo link, social star badge, feature bullet points, stack, and license.
+   - For open-source repos: include repo link, social Stars_Badge, feature bullet points, stack, and license.
 4. 🚀 **Submit a Pull Request** with a concise summary of the changes.
 
 ---
